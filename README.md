@@ -41,13 +41,13 @@ Verify functionality under asynchronous clock operation
 
 ## Results and Design 
 **[Test Waveform]**
-![Refrence image](/FIFO_TEST.png)
+![Refrence image](images/FIFO_TEST.png)
 
 **[Architecture]**
-![Refrence image](/image1.png)
+![Refrence image](images/image1.png)
 
 **[2 Synchronizer Working]**
-![Refrence image](/sync.png)
+![Refrence image](images/sync.png)
 
 ## 📌 Author
 Juriel
